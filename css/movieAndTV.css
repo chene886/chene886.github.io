@@ -1,0 +1,32 @@
+/* --------主页内容--------- */
+ .content{
+	height: 1270px;
+	/* background-color: #87CEEB; */ /* 背景色定位测试框 */
+}
+
+
+/* 温情/科幻 */
+.tabdown{
+	height: 20px;
+	/* background-color: #FF7F50; */
+}
+.tabdown img{
+	width: 190px;
+	border-radius: 5px;/* 方块圆角 */
+}
+
+.tabdown li{
+	float: left;
+	height: 290px;
+	margin-right: 10px;
+}
+.tabdown a{
+	font-size: 10px;
+	color: #000000;
+}
+.tabdown a:hover{color: coral;}
+
+
+
+/* --------主页内容end--------- */
+
